@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "MasterCoder",
   "license": "ISC",
-  "description": ""
+  "description": "Basic project of tracking and locating an IP public information...",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
 }
