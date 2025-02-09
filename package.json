@@ -1,7 +1,6 @@
 {
   "name": "geo",
   "version": "1.0.0",
-  "main": "scripts.js",
   "scripts": {
     "test": "echo \"This is a test!\" && exit 1"
   },
